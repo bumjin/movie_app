@@ -1,3 +1,6 @@
+http://academy.nomadcoders.co/p/reactjs-fundamentals 강좌로 만드는 react 영화앱 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
